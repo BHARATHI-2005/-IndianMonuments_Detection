@@ -1,0 +1,1 @@
+Copy indian_monuments_cnn.keras and class_names.json exported from the same Colab training run into this folder.
